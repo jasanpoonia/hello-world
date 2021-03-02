@@ -1,2 +1,3 @@
 # hello-world
-JUST A REPOSITORY
+my name is jasandeep singh
+i am from india
